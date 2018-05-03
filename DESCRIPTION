@@ -1,0 +1,16 @@
+Package: PowerLawPlots
+Type: Package
+Title: Plots of power law distributions and their fits
+Version: 0.1
+Date: 2018-05-03
+Author: Gregorio Alanis-Lobato
+Maintainer: Gregorio Alanis-Lobato <galanisl@uni-mainz.de>
+Description: Given a distribution suspected to behave like a power law, it plots PDFs and CDFs.
+License: MIT + file LICENSE
+Depends: R (>= 3.1)
+Imports: igraph (>= 1.1), ggplot2 (>= 2.2), dplyr (>= 0.7), poweRlaw (>= 0.7), scales (>= 0.5)
+Suggests: knitr, rmarkdown
+LazyData: true
+VignetteBuilder: knitr
+BugReports: https://github.com/galanisl/LinkPrediction/issues
+RoxygenNote: 6.0.1
