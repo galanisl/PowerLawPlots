@@ -2,7 +2,7 @@ PowerLawPlots
 ================
 Gregorio Alanis-Lobato
 
-A very simple set of functions to generate power-law distributed data and to plot continues and discrete power law distributions.
+A very simple set of functions to generate power-law distributed data and to plot continuous and discrete power law distributions.
 
 Installation
 ============
